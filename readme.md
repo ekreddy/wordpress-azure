@@ -1,5 +1,7 @@
 # Wordpress for Azure App Services (Windows)
 
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/azureappserviceoss/wordpress-azure/ekreddy-Linux-Test/azuredeploy.json)
+
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fazureappserviceoss%2Fwordpress-azure%2Fmaster%2Fazuredeploy.json)
 
 - This branch will be cloned when you create using WordPress (App Service) from the Azure Marketplace.
